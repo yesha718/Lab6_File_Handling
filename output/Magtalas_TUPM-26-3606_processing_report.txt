@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Magtalas
+Student ID: TUPM-26-3606
+Seed Digit: 6
+ID Sum: 23
+Verification Value: 37
+Dataset Sample Size: 73
+Valid records: 73
+Average Global Active Power: 4.050
+JSON File: Magtalas_TUPM-26-3606_record.json
+Backup File: Magtalas_TUPM-26-3606_record.csv

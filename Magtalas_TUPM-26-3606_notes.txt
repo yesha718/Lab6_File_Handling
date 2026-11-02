@@ -1,0 +1,5 @@
+Student: Magtalas
+Student ID: TUPM-26-3606
+Seed digit: 6
+ID Sum: 23
+Verification value: 37
