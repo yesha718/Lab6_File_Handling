@@ -1,0 +1,115 @@
+User ID,Device Model,Operating System,Battery Drain (mAh/day),Data Usage (MB/day)
+3,Xiaomi Mi 11,Android,761,322
+6,Google Pixel 5,Android,940,564
+17,OnePlus 9,Android,628,344
+21,Samsung Galaxy S21,Android,681,302
+26,Samsung Galaxy S21,Android,1073,451
+43,Samsung Galaxy S21,Android,720,392
+44,Samsung Galaxy S21,Android,993,429
+45,Xiaomi Mi 11,Android,837,572
+48,Samsung Galaxy S21,Android,889,323
+53,Samsung Galaxy S21,Android,690,393
+54,Xiaomi Mi 11,Android,1101,375
+68,Xiaomi Mi 11,Android,773,449
+78,Google Pixel 5,Android,678,301
+87,Samsung Galaxy S21,Android,1003,392
+89,Xiaomi Mi 11,Android,839,348
+91,Google Pixel 5,Android,912,307
+103,Google Pixel 5,Android,929,565
+105,Xiaomi Mi 11,Android,1113,360
+107,Google Pixel 5,Android,642,596
+111,OnePlus 9,Android,718,459
+114,Samsung Galaxy S21,Android,818,404
+120,Google Pixel 5,Android,1018,428
+129,Xiaomi Mi 11,Android,678,465
+130,Xiaomi Mi 11,Android,751,412
+133,Google Pixel 5,Android,1193,458
+150,Google Pixel 5,Android,873,459
+153,Google Pixel 5,Android,741,396
+156,Xiaomi Mi 11,Android,893,493
+160,Xiaomi Mi 11,Android,859,305
+171,Xiaomi Mi 11,Android,1124,524
+173,OnePlus 9,Android,935,578
+181,OnePlus 9,Android,1124,571
+198,OnePlus 9,Android,1116,320
+200,Xiaomi Mi 11,Android,971,431
+205,OnePlus 9,Android,961,433
+208,Google Pixel 5,Android,620,419
+213,Samsung Galaxy S21,Android,714,445
+220,Xiaomi Mi 11,Android,603,417
+222,OnePlus 9,Android,1007,417
+225,OnePlus 9,Android,690,563
+229,Samsung Galaxy S21,Android,649,368
+234,OnePlus 9,Android,1059,580
+243,OnePlus 9,Android,761,338
+249,Xiaomi Mi 11,Android,866,581
+254,Xiaomi Mi 11,Android,982,478
+273,Google Pixel 5,Android,1002,453
+274,Google Pixel 5,Android,1014,588
+289,OnePlus 9,Android,619,473
+300,Xiaomi Mi 11,Android,748,499
+306,OnePlus 9,Android,686,594
+313,Google Pixel 5,Android,1054,563
+314,Xiaomi Mi 11,Android,820,308
+318,Google Pixel 5,Android,827,434
+347,OnePlus 9,Android,1020,447
+349,Google Pixel 5,Android,866,510
+369,OnePlus 9,Android,747,408
+380,OnePlus 9,Android,922,313
+384,OnePlus 9,Android,653,322
+385,Samsung Galaxy S21,Android,890,548
+387,OnePlus 9,Android,925,457
+390,Xiaomi Mi 11,Android,775,313
+393,Samsung Galaxy S21,Android,1055,313
+402,Google Pixel 5,Android,612,508
+407,Xiaomi Mi 11,Android,994,567
+415,Google Pixel 5,Android,1171,573
+426,Samsung Galaxy S21,Android,1062,579
+427,OnePlus 9,Android,747,403
+428,OnePlus 9,Android,967,489
+429,Xiaomi Mi 11,Android,1033,369
+436,Xiaomi Mi 11,Android,798,467
+439,OnePlus 9,Android,728,343
+440,Google Pixel 5,Android,915,468
+449,Samsung Galaxy S21,Android,617,306
+451,Samsung Galaxy S21,Android,1114,466
+453,Samsung Galaxy S21,Android,734,583
+460,OnePlus 9,Android,639,545
+462,Samsung Galaxy S21,Android,938,438
+473,Xiaomi Mi 11,Android,697,513
+495,Samsung Galaxy S21,Android,1176,545
+514,OnePlus 9,Android,975,507
+516,OnePlus 9,Android,1187,599
+517,Xiaomi Mi 11,Android,940,535
+520,OnePlus 9,Android,1123,371
+527,Google Pixel 5,Android,689,318
+529,Google Pixel 5,Android,801,338
+536,Samsung Galaxy S21,Android,937,573
+550,Samsung Galaxy S21,Android,1047,508
+552,Samsung Galaxy S21,Android,1110,373
+562,Xiaomi Mi 11,Android,1188,578
+567,Google Pixel 5,Android,1132,498
+576,Samsung Galaxy S21,Android,606,446
+582,Samsung Galaxy S21,Android,625,416
+586,OnePlus 9,Android,1191,563
+590,Samsung Galaxy S21,Android,627,464
+591,Samsung Galaxy S21,Android,630,575
+598,OnePlus 9,Android,825,347
+599,Samsung Galaxy S21,Android,1131,596
+603,OnePlus 9,Android,922,373
+604,OnePlus 9,Android,660,424
+615,Samsung Galaxy S21,Android,1158,493
+616,Google Pixel 5,Android,608,461
+631,Google Pixel 5,Android,1078,489
+634,OnePlus 9,Android,1142,366
+636,Samsung Galaxy S21,Android,1198,401
+644,OnePlus 9,Android,723,566
+646,Xiaomi Mi 11,Android,1197,345
+651,Google Pixel 5,Android,1041,356
+656,Google Pixel 5,Android,1028,493
+662,Xiaomi Mi 11,Android,947,545
+663,Xiaomi Mi 11,Android,1189,448
+670,Samsung Galaxy S21,Android,648,339
+677,OnePlus 9,Android,689,576
+678,Samsung Galaxy S21,Android,706,495
+698,Google Pixel 5,Android,942,457

@@ -1,0 +1,15 @@
+{
+    "target_year": "2021",
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 299,
+    "count_per_attack_type": {
+        "Phishing": 41,
+        "SQL Injection": 59,
+        "Malware": 49,
+        "DDoS": 47,
+        "Ransomware": 55,
+        "Man-in-the-Middle": 48
+    },
+    "total_financial_loss_usd_millions": 15873.40999999999,
+    "average_financial_loss_usd_millions": 53.08832775919729
+}
