@@ -1,0 +1,17 @@
+{
+    "records_processed": 1023,
+    "target_status_class": "4xx",
+    "count_per_status_code": {
+        "404": 5
+    },
+    "five_most_frequent_urls": [
+        [
+            "GET /robots.txt HTTP/1.1",
+            4
+        ],
+        [
+            "GET /favicon.ico HTTP/1.1",
+            1
+        ]
+    ]
+}
